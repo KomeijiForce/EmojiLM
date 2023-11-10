@@ -1,6 +1,6 @@
 # Fast Access
 
-**Models:** Our models can be loaded from [bart-base-emojilm](https://huggingface.co/KomeijiForce/bart-base-emojilm) and [bart-large-emojilm](https://huggingface.co/KomeijiForce/bart-large-emojilm).
+**Models:** Our models can be loaded from [bart-base-emojilm](https://huggingface.co/KomeijiForce/bart-base-emojilm), [bart-large-emojilm](https://huggingface.co/KomeijiForce/bart-large-emojilm), [t5-base-emojilm](https://huggingface.co/KomeijiForce/t5-base-emojilm).
 
 **Dataset:** Our dataset is accessible at [Text2Emoji](https://huggingface.co/datasets/KomeijiForce/Text2Emoji).
 
